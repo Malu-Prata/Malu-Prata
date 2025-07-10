@@ -18,7 +18,21 @@
     </a>
     
   </br>
-  </br>
+  
+   ### 🤖 Redes Sociais
+  <p align="left">
+  <a href="https://www.linkedin.com/in/maria-luiza-prata-a342812b3" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge&logoColor=white" />
+  </a>
+  <a href="https://www.instagram.com/marialuiza_prata/" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?logo=instagram&style=for-the-badge&logoColor=white" />
+  </a>
+</p>
+
+</p>
+
+</p>
+
   
   
   ### 🤖 Linguagens e Tecnologias
