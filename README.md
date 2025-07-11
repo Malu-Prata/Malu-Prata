@@ -1,5 +1,5 @@
 ## Ooi, eu sou a Malu!👋
-🔭 Atualmente trabalho no PROGEP-UFPel e estou aprendendo Java, SQL e C!
+🔭 Estudante de ciência da computação na UFPel, atualmente trabalho na PROGEP-UFPel e estou aprendendo Java, SQL e C!
 </br>
 
  <a href="https://github.com/Malu-Prata?tab=repositories&sort=stargazers">
@@ -19,7 +19,7 @@
     
   </br>
   
-   ### 🤖 Redes Sociais
+   ### 🌐 Redes Sociais
   <p align="left">
   <a href="https://www.linkedin.com/in/maria-luiza-prata-a342812b3" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge&logoColor=white" />
