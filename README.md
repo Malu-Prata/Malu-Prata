@@ -1,4 +1,9 @@
-## Ooi, eu sou a Malu!👋
+<p align="center">
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=ffc4d8&center=true&width=435&lines=Ooi!+Eu+sou+a+Malu!" alt="Typing SVG" />
+</a>
+</p>
+
 🔭 Estudante de ciência da computação na UFPel, atualmente trabalho na PROGEP-UFPel e estou aprendendo Java, SQL e C!
 </br>
 
@@ -51,10 +56,21 @@
     title="Java" 
     width="40px" 
     style="padding-right: 20px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg"
-/>
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-plain-wordmark.svg" 
+ />
+          
+<img 
+    align="left" 
+    alt="C"
+    title="C" 
+    width="40px" 
+    style="padding-right: 20px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" 
+ />
+        
 </br>
 </br>
+
 ### 📊 Estatísticas
 
 <p>
