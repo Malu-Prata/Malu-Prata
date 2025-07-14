@@ -4,7 +4,7 @@
 </a>
 </p>
 
-🔭 Estudante de ciência da computação na UFPel, atualmente trabalho na PROGEP-UFPel e estou aprendendo Java, SQL e C!
+🔭 Estudante de ciência da computação na UFPel, atualmente trabalho na PROGEP-UFPel e estou aprendendo Java, Postgresql e C!
 </br>
 
  <a href="https://github.com/Malu-Prata?tab=repositories&sort=stargazers">
