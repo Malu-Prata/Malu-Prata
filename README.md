@@ -4,8 +4,10 @@
 </a>
 </p>
 
-🔭 Estudante de ciência da computação na UFPel, atualmente trabalho na PROGEP-UFPel e estou aprendendo Java, Postgresql e C!
+🔭 Estudante de ciência da computação na UFPel, atualmente trabalho na PROGEP-UFPel e estou aprendendo Java, PostgreSQL e C! </br>
+🪷 Faço parte do projeto Gurias da Comp, que tem como objetivo apoiar e fortalecer a permanência feminina nos cursos de computação!
 </br>
+
 
  <a href="https://github.com/Malu-Prata?tab=repositories&sort=stargazers">
         <img 
