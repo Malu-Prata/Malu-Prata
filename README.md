@@ -4,7 +4,9 @@
 </a>
 </p>
 
-🔭 Estudante de ciência da computação na UFPel, atualmente trabalho na PROGEP-UFPel e estou aprendendo Java, PostgreSQL e C! </br>
+🔭 Estudante de ciência da computação na UFPel.</br>
+💻 Trabalho na Mertins Tecnologias como desenvolvedora Java.</br>
+📖 Atualmente estou aprofundando meus conhecimentos em Java, PostgreSQL, C e Phyton.</br>
 🪷 Faço parte do projeto Gurias da Comp, que tem como objetivo apoiar e fortalecer a permanência feminina nos cursos de computação!
 </br>
 
